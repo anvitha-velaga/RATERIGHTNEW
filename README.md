@@ -2,13 +2,13 @@
 This repository contains the source code for the RATE-RIGHT application. It includes both frontend and backend components, along with supporting configuration files.
 
 -->Project Structure:
-Frontend
+Frontend:
 React, React-Router-DOM,Testing
 
-Backend
+Backend:
 .NET API, Serilogger, JWT, Services, Testing
 
-Database
+Database:
 Entity Framework Core with migrations and SQL database integration.
 
 -->Features:
