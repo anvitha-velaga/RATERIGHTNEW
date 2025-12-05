@@ -2,7 +2,9 @@ RATE RIGHT – Full-Stack Project (React + .NET Core)
 A complete full-stack Rate-Right application built using React (frontend) and ASP.NET Core Web API (backend) with JWT authentication, SQL Server database. This project supports feedback management, user authentication, and admin reports.
 
 🚀 Features
+
 🔐 Authentication
+
 User registration & login
 
 Secure JWT-based authentication
@@ -10,6 +12,7 @@ Secure JWT-based authentication
 Password hashing using BCrypt
 
 🧾 Feedback Management
+
 Submit new feedback
 
 Review Feedbacks submitted
@@ -17,6 +20,7 @@ Review Feedbacks submitted
 Star component
 
 📊 Reports
+
 Pending Feedbacks
 
 Approved Feedbacks
@@ -74,4 +78,5 @@ Provides realtime reports
 scalable for production 
 
 👤 Author
+
 Anvitha Velaga
