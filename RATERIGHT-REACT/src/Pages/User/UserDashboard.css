@@ -1,0 +1,137 @@
+.dashboard-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgb(13, 11, 105) !important;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 0; 
+    font-family: "Segoe UI", Arial, sans-serif;
+    border-bottom: 1px solid #ddd; 
+}
+
+.dashboard-header h2 {
+    font-size: 24px;
+    color: #fff !important; 
+    font-weight: 700; 
+}
+
+.dashboard-header nav {
+    display: flex;
+    gap: 12px;
+    color:aliceblue !important;
+}
+
+.content-container, .table-container {
+    
+    padding: 16px 24px;
+}
+
+.link-nav {
+   
+    margin: 0 15px !important; 
+    color:  #CED6E0 !important; 
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 14px; }
+
+.link-nav:hover {
+    
+    color: #fff !important; 
+    text-decoration: underline !important;
+}
+
+.logout-btn {
+    padding: 6px 12px;
+    background: #971c0e !important; 
+    color: white;
+    font-size: 13px;
+    border: none;
+    border-radius: 4px; 
+    cursor: pointer;
+    font-weight: 500;
+}
+
+.logout-btn:hover {
+    background: #b9392a !important; 
+}
+
+
+.dashboard-content {
+    background: white;
+    padding: 25px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05); 
+}
+
+.dashboard-content h3 {
+    margin-bottom: 20px;
+    color: #444; 
+    text-align: center;
+    font-size: 20px;
+}
+
+.Trash {
+    background: transparent !important;
+    color: #c0392b !important; 
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.Trash:hover {
+    color: #903025 !important;
+    background: transparent !important;
+}
+
+/* --- Table Styles --- */
+
+table {
+    width: 100%;
+    border-collapse: separate; 
+    border-spacing: 0; 
+   
+}
+
+th, td {
+    
+    border: none; 
+    padding: 10px 15px; 
+    background: white !important;
+    color: black;
+    font-size: 14px;
+    text-align: left; 
+}
+table tr:nth-child(even) {
+    background-color: #fcfcfc !important; 
+}
+
+
+table tr:nth-child(odd) {
+    background-color: #f2f6ff !important; 
+}
+
+
+table tr:first-child {
+    background-color: #f7f7f7 !important; 
+}
+
+table tr:last-child td {
+    border-bottom: none;
+}
+th {
+  
+    background-color: #f7f7f7 !important; 
+    color: #000;
+    font-weight: 600;
+    border-bottom: 1px solid #ccc; 
+}
+
+tr {
+    
+    border-bottom: none; 
+}
+
+tr:not(:last-child) td {
+    
+    border-bottom: 1px solid #eee !important; 
+}

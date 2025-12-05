@@ -1,0 +1,305 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive - WinWire\\Desktop\\RATE-RIGHT\\RATE-RIGHT BACKEND\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B03102F-A6EC-40FE-BD72-C1F5439A16F6}|TestProject1\\TestProject1.csproj|d:\\onedrive - winwire\\desktop\\rate-right\\rate-right backend\\testproject1\\userlogincontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B03102F-A6EC-40FE-BD72-C1F5439A16F6}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\userlogincontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B03102F-A6EC-40FE-BD72-C1F5439A16F6}|TestProject1\\TestProject1.csproj|d:\\onedrive - winwire\\desktop\\rate-right\\rate-right backend\\testproject1\\feedbackcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B03102F-A6EC-40FE-BD72-C1F5439A16F6}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\feedbackcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DBBB447-4AE6-4508-9F2B-5FB13CE77BFD}|UseCase\\UseCase.csproj|d:\\onedrive - winwire\\desktop\\rate-right\\rate-right backend\\usecase\\repository\u0026services\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DBBB447-4AE6-4508-9F2B-5FB13CE77BFD}|UseCase\\UseCase.csproj|solutionrelative:usecase\\repository\u0026services\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DBBB447-4AE6-4508-9F2B-5FB13CE77BFD}|UseCase\\UseCase.csproj|d:\\onedrive - winwire\\desktop\\rate-right\\rate-right backend\\usecase\\repository\u0026services\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DBBB447-4AE6-4508-9F2B-5FB13CE77BFD}|UseCase\\UseCase.csproj|solutionrelative:usecase\\repository\u0026services\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DBBB447-4AE6-4508-9F2B-5FB13CE77BFD}|UseCase\\UseCase.csproj|d:\\onedrive - winwire\\desktop\\rate-right\\rate-right backend\\usecase\\repository\u0026services\\ifeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DBBB447-4AE6-4508-9F2B-5FB13CE77BFD}|UseCase\\UseCase.csproj|solutionrelative:usecase\\repository\u0026services\\ifeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DBBB447-4AE6-4508-9F2B-5FB13CE77BFD}|UseCase\\UseCase.csproj|d:\\onedrive - winwire\\desktop\\rate-right\\rate-right backend\\usecase\\repository\u0026services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DBBB447-4AE6-4508-9F2B-5FB13CE77BFD}|UseCase\\UseCase.csproj|solutionrelative:usecase\\repository\u0026services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DBBB447-4AE6-4508-9F2B-5FB13CE77BFD}|UseCase\\UseCase.csproj|d:\\onedrive - winwire\\desktop\\rate-right\\rate-right backend\\usecase\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5DBBB447-4AE6-4508-9F2B-5FB13CE77BFD}|UseCase\\UseCase.csproj|solutionrelative:usecase\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DBBB447-4AE6-4508-9F2B-5FB13CE77BFD}|UseCase\\UseCase.csproj|d:\\onedrive - winwire\\desktop\\rate-right\\rate-right backend\\usecase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DBBB447-4AE6-4508-9F2B-5FB13CE77BFD}|UseCase\\UseCase.csproj|solutionrelative:usecase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DBBB447-4AE6-4508-9F2B-5FB13CE77BFD}|UseCase\\UseCase.csproj|d:\\onedrive - winwire\\desktop\\rate-right\\rate-right backend\\usecase\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DBBB447-4AE6-4508-9F2B-5FB13CE77BFD}|UseCase\\UseCase.csproj|solutionrelative:usecase\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DBBB447-4AE6-4508-9F2B-5FB13CE77BFD}|UseCase\\UseCase.csproj|d:\\onedrive - winwire\\desktop\\rate-right\\rate-right backend\\usecase\\controllers\\userlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DBBB447-4AE6-4508-9F2B-5FB13CE77BFD}|UseCase\\UseCase.csproj|solutionrelative:usecase\\controllers\\userlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DBBB447-4AE6-4508-9F2B-5FB13CE77BFD}|UseCase\\UseCase.csproj|d:\\onedrive - winwire\\desktop\\rate-right\\rate-right backend\\usecase\\data\\feedbackdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DBBB447-4AE6-4508-9F2B-5FB13CE77BFD}|UseCase\\UseCase.csproj|solutionrelative:usecase\\data\\feedbackdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DBBB447-4AE6-4508-9F2B-5FB13CE77BFD}|UseCase\\UseCase.csproj|d:\\onedrive - winwire\\desktop\\rate-right\\rate-right backend\\usecase\\models\\dtos\\feedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DBBB447-4AE6-4508-9F2B-5FB13CE77BFD}|UseCase\\UseCase.csproj|solutionrelative:usecase\\models\\dtos\\feedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DBBB447-4AE6-4508-9F2B-5FB13CE77BFD}|UseCase\\UseCase.csproj|d:\\onedrive - winwire\\desktop\\rate-right\\rate-right backend\\usecase\\models\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DBBB447-4AE6-4508-9F2B-5FB13CE77BFD}|UseCase\\UseCase.csproj|solutionrelative:usecase\\models\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DBBB447-4AE6-4508-9F2B-5FB13CE77BFD}|UseCase\\UseCase.csproj|d:\\onedrive - winwire\\desktop\\rate-right\\rate-right backend\\usecase\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DBBB447-4AE6-4508-9F2B-5FB13CE77BFD}|UseCase\\UseCase.csproj|solutionrelative:usecase\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DBBB447-4AE6-4508-9F2B-5FB13CE77BFD}|UseCase\\UseCase.csproj|d:\\onedrive - winwire\\desktop\\rate-right\\rate-right backend\\usecase\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DBBB447-4AE6-4508-9F2B-5FB13CE77BFD}|UseCase\\UseCase.csproj|solutionrelative:usecase\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B03102F-A6EC-40FE-BD72-C1F5439A16F6}|TestProject1\\TestProject1.csproj|d:\\onedrive - winwire\\desktop\\rate-right\\rate-right backend\\testproject1\\testproject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B03102F-A6EC-40FE-BD72-C1F5439A16F6}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\testproject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DBBB447-4AE6-4508-9F2B-5FB13CE77BFD}|UseCase\\UseCase.csproj|d:\\onedrive - winwire\\desktop\\rate-right\\rate-right backend\\usecase\\usecase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5DBBB447-4AE6-4508-9F2B-5FB13CE77BFD}|UseCase\\UseCase.csproj|solutionrelative:usecase\\usecase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\OneDrive - WinWire\\Desktop\\RATE-RIGHT\\RATE-RIGHT BACKEND\\UseCase\\Repository\u0026Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "UseCase\\Repository\u0026Services\\IUserService.cs",
+              "ToolTip": "D:\\OneDrive - WinWire\\Desktop\\RATE-RIGHT\\RATE-RIGHT BACKEND\\UseCase\\Repository\u0026Services\\IUserService.cs",
+              "RelativeToolTip": "UseCase\\Repository\u0026Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T10:00:23.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\OneDrive - WinWire\\Desktop\\RATE-RIGHT\\RATE-RIGHT BACKEND\\UseCase\\Repository\u0026Services\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "UseCase\\Repository\u0026Services\\IUserRepository.cs",
+              "ToolTip": "D:\\OneDrive - WinWire\\Desktop\\RATE-RIGHT\\RATE-RIGHT BACKEND\\UseCase\\Repository\u0026Services\\IUserRepository.cs",
+              "RelativeToolTip": "UseCase\\Repository\u0026Services\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T09:59:19.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IFeedbackService.cs",
+              "DocumentMoniker": "D:\\OneDrive - WinWire\\Desktop\\RATE-RIGHT\\RATE-RIGHT BACKEND\\UseCase\\Repository\u0026Services\\IFeedbackService.cs",
+              "RelativeDocumentMoniker": "UseCase\\Repository\u0026Services\\IFeedbackService.cs",
+              "ToolTip": "D:\\OneDrive - WinWire\\Desktop\\RATE-RIGHT\\RATE-RIGHT BACKEND\\UseCase\\Repository\u0026Services\\IFeedbackService.cs",
+              "RelativeToolTip": "UseCase\\Repository\u0026Services\\IFeedbackService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T06:45:43.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IFeedbackRepository.cs",
+              "DocumentMoniker": "D:\\OneDrive - WinWire\\Desktop\\RATE-RIGHT\\RATE-RIGHT BACKEND\\UseCase\\Repository\u0026Services\\IFeedbackRepository.cs",
+              "RelativeDocumentMoniker": "UseCase\\Repository\u0026Services\\IFeedbackRepository.cs",
+              "ToolTip": "D:\\OneDrive - WinWire\\Desktop\\RATE-RIGHT\\RATE-RIGHT BACKEND\\UseCase\\Repository\u0026Services\\IFeedbackRepository.cs",
+              "RelativeToolTip": "UseCase\\Repository\u0026Services\\IFeedbackRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T06:43:59.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserLoginControllerTests.cs",
+              "DocumentMoniker": "D:\\OneDrive - WinWire\\Desktop\\RATE-RIGHT\\RATE-RIGHT BACKEND\\TestProject1\\UserLoginControllerTests.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UserLoginControllerTests.cs",
+              "ToolTip": "D:\\OneDrive - WinWire\\Desktop\\RATE-RIGHT\\RATE-RIGHT BACKEND\\TestProject1\\UserLoginControllerTests.cs",
+              "RelativeToolTip": "TestProject1\\UserLoginControllerTests.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAkwD8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T05:43:16.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TestProject1.csproj",
+              "DocumentMoniker": "D:\\OneDrive - WinWire\\Desktop\\RATE-RIGHT\\RATE-RIGHT BACKEND\\TestProject1\\TestProject1.csproj",
+              "RelativeDocumentMoniker": "TestProject1\\TestProject1.csproj",
+              "ToolTip": "D:\\OneDrive - WinWire\\Desktop\\RATE-RIGHT\\RATE-RIGHT BACKEND\\TestProject1\\TestProject1.csproj",
+              "RelativeToolTip": "TestProject1\\TestProject1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-01T09:32:17.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FeedbackControllerTests.cs",
+              "DocumentMoniker": "D:\\OneDrive - WinWire\\Desktop\\RATE-RIGHT\\RATE-RIGHT BACKEND\\TestProject1\\FeedbackControllerTests.cs",
+              "RelativeDocumentMoniker": "TestProject1\\FeedbackControllerTests.cs",
+              "ToolTip": "D:\\OneDrive - WinWire\\Desktop\\RATE-RIGHT\\RATE-RIGHT BACKEND\\TestProject1\\FeedbackControllerTests.cs",
+              "RelativeToolTip": "TestProject1\\FeedbackControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T06:32:25.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FeedbackController.cs",
+              "DocumentMoniker": "D:\\OneDrive - WinWire\\Desktop\\RATE-RIGHT\\RATE-RIGHT BACKEND\\UseCase\\Controllers\\FeedbackController.cs",
+              "RelativeDocumentMoniker": "UseCase\\Controllers\\FeedbackController.cs",
+              "ToolTip": "D:\\OneDrive - WinWire\\Desktop\\RATE-RIGHT\\RATE-RIGHT BACKEND\\UseCase\\Controllers\\FeedbackController.cs",
+              "RelativeToolTip": "UseCase\\Controllers\\FeedbackController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAywEoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T06:59:49.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserLoginController.cs",
+              "DocumentMoniker": "D:\\OneDrive - WinWire\\Desktop\\RATE-RIGHT\\RATE-RIGHT BACKEND\\UseCase\\Controllers\\UserLoginController.cs",
+              "RelativeDocumentMoniker": "UseCase\\Controllers\\UserLoginController.cs",
+              "ToolTip": "D:\\OneDrive - WinWire\\Desktop\\RATE-RIGHT\\RATE-RIGHT BACKEND\\UseCase\\Controllers\\UserLoginController.cs",
+              "RelativeToolTip": "UseCase\\Controllers\\UserLoginController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvyYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T12:47:06.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive - WinWire\\Desktop\\RATE-RIGHT\\RATE-RIGHT BACKEND\\UseCase\\Program.cs",
+              "RelativeDocumentMoniker": "UseCase\\Program.cs",
+              "ToolTip": "D:\\OneDrive - WinWire\\Desktop\\RATE-RIGHT\\RATE-RIGHT BACKEND\\UseCase\\Program.cs",
+              "RelativeToolTip": "UseCase\\Program.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAQwHsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T09:22:57.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FeedbackDTO.cs",
+              "DocumentMoniker": "D:\\OneDrive - WinWire\\Desktop\\RATE-RIGHT\\RATE-RIGHT BACKEND\\UseCase\\Models\\DTOS\\FeedbackDTO.cs",
+              "RelativeDocumentMoniker": "UseCase\\Models\\DTOS\\FeedbackDTO.cs",
+              "ToolTip": "D:\\OneDrive - WinWire\\Desktop\\RATE-RIGHT\\RATE-RIGHT BACKEND\\UseCase\\Models\\DTOS\\FeedbackDTO.cs",
+              "RelativeToolTip": "UseCase\\Models\\DTOS\\FeedbackDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T09:20:55.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\OneDrive - WinWire\\Desktop\\RATE-RIGHT\\RATE-RIGHT BACKEND\\UseCase\\Models\\DTOS\\UserDTO.cs",
+              "RelativeDocumentMoniker": "UseCase\\Models\\DTOS\\UserDTO.cs",
+              "ToolTip": "D:\\OneDrive - WinWire\\Desktop\\RATE-RIGHT\\RATE-RIGHT BACKEND\\UseCase\\Models\\DTOS\\UserDTO.cs",
+              "RelativeToolTip": "UseCase\\Models\\DTOS\\UserDTO.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T09:19:39.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "D:\\OneDrive - WinWire\\Desktop\\RATE-RIGHT\\RATE-RIGHT BACKEND\\UseCase\\Models\\Feedback.cs",
+              "RelativeDocumentMoniker": "UseCase\\Models\\Feedback.cs",
+              "ToolTip": "D:\\OneDrive - WinWire\\Desktop\\RATE-RIGHT\\RATE-RIGHT BACKEND\\UseCase\\Models\\Feedback.cs",
+              "RelativeToolTip": "UseCase\\Models\\Feedback.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T09:13:26.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\OneDrive - WinWire\\Desktop\\RATE-RIGHT\\RATE-RIGHT BACKEND\\UseCase\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UseCase\\Models\\User.cs",
+              "ToolTip": "D:\\OneDrive - WinWire\\Desktop\\RATE-RIGHT\\RATE-RIGHT BACKEND\\UseCase\\Models\\User.cs",
+              "RelativeToolTip": "UseCase\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T09:07:07.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FeedbackDbContext.cs",
+              "DocumentMoniker": "D:\\OneDrive - WinWire\\Desktop\\RATE-RIGHT\\RATE-RIGHT BACKEND\\UseCase\\Data\\FeedbackDbContext.cs",
+              "RelativeDocumentMoniker": "UseCase\\Data\\FeedbackDbContext.cs",
+              "ToolTip": "D:\\OneDrive - WinWire\\Desktop\\RATE-RIGHT\\RATE-RIGHT BACKEND\\UseCase\\Data\\FeedbackDbContext.cs",
+              "RelativeToolTip": "UseCase\\Data\\FeedbackDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA7wBkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T09:04:00.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UseCase.csproj",
+              "DocumentMoniker": "D:\\OneDrive - WinWire\\Desktop\\RATE-RIGHT\\RATE-RIGHT BACKEND\\UseCase\\UseCase.csproj",
+              "RelativeDocumentMoniker": "UseCase\\UseCase.csproj",
+              "ToolTip": "D:\\OneDrive - WinWire\\Desktop\\RATE-RIGHT\\RATE-RIGHT BACKEND\\UseCase\\UseCase.csproj",
+              "RelativeToolTip": "UseCase\\UseCase.csproj",
+              "ViewState": "AgIAACEAAAAAAAAAAAAiwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-07T09:03:34.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\OneDrive - WinWire\\Desktop\\RATE-RIGHT\\RATE-RIGHT BACKEND\\UseCase\\appsettings.json",
+              "RelativeDocumentMoniker": "UseCase\\appsettings.json",
+              "ToolTip": "D:\\OneDrive - WinWire\\Desktop\\RATE-RIGHT\\RATE-RIGHT BACKEND\\UseCase\\appsettings.json",
+              "RelativeToolTip": "UseCase\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-07T09:01:21.526Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
