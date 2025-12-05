@@ -1,26 +1,77 @@
--->RATE-RIGHT Project:
-This repository contains the source code for the RATE-RIGHT application. It includes both frontend and backend components, along with supporting configuration files.
+RATE RIGHT – Full-Stack Project (React + .NET Core)
+A complete full-stack Rate-Right application built using React (frontend) and ASP.NET Core Web API (backend) with JWT authentication, SQL Server database. This project supports feedback management, user authentication, and admin reports.
 
--->Project Structure:
-Frontend:
-React, React-Router-DOM,Testing
+🚀 Features
+🔐 Authentication
+User registration & login
 
-Backend:
-.NET API, Serilogger, JWT, Services, Testing
+Secure JWT-based authentication
 
-Database:
-Entity Framework Core with migrations and SQL database integration.
+Password hashing using BCrypt
 
--->Features:
-User authentication and authorization,
-Feedback submission and history,
-Admin dashboard for pending and approved feedback,
-Logging with Serilog,
-Reusable repository and service layers,
-Secure token-based system
+🧾 Feedback Management
+Submit new feedback
 
--->Requirements:
- React
-.NET SDK
+Review Feedbacks submitted
+
+Star component
+
+📊 Reports
+Pending Feedbacks
+
+Approved Feedbacks
+
+Total Users
+
+🗄 Backend Architecture (Clean Architecture Style)
+Controllers
+
+Services layer (Interfaces + Implementations)
+
+DTO layer
+
+EF Core DB Context
+
+SQL Server database
+
+🧪 Testing
+Backend: xUnit + Moq
+
+Frontend: Jest + React Testing Library
+
+🛠 Tech Stack
+Front-End
+
+React (CRA)
+
+React Router DOM
+
+Axios
+
+Jest + React Testing Library
+
+Back-End
+
+ASP.NET Core Web API
+
+Entity Framework Core
+
 SQL Server
-Git for version control
+
+JWT Authentication
+
+xUnit + Moq
+
+🙌 Project Highlights
+Follows clean folder architecture
+
+Professional service abstraction using interfaces
+
+Implemented unit testing on both frontend & backend
+
+Provides realtime reports
+
+scalable for production 
+
+👤 Author
+Anvitha Velaga
